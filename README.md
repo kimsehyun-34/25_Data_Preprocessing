@@ -5,7 +5,7 @@
 
 ### 1.conda 환경을 생성
 ```
-conda create --name hyejun python=3.6
+conda create --name kim python=3.6
 ```
 
 ### 2. 공간할당

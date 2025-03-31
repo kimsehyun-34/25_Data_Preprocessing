@@ -33,3 +33,14 @@ python -m ipykernel install --user --name=kim --display-name="kim"
 ```
 jupyter Notebook
 ```
+--------
+## 가상환경 이름변경
+```
+conda create --name [변경할 이름] --clone [기존 환경 이름]
+```
+```
+conda remove --name [기존 환경 이름] --all
+```
+```
+conda activate [변경할 이름]
+```

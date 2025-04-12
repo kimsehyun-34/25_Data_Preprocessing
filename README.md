@@ -31,7 +31,7 @@ python -m ipykernel install --user --name=kim --display-name="kim"
 
 ### 6. Jupyter Notebook 실행
 ```
-jupyter Notebook
+jupyter notebook
 ```
 --------
 ## 가상환경 이름변경

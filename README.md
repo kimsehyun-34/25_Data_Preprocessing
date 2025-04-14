@@ -44,3 +44,8 @@ conda remove --name [기존 환경 이름] --all
 ```
 conda activate [변경할 이름]
 ```
+--------
+## 가상환경 리스트
+```
+conda info --envs
+```

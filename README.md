@@ -1,5 +1,7 @@
 # Data_Preprocessing
 > 2025년 Data Preprocessing - 데이터 전처리 강의 자료
+
+![중간고사](중간고사_필기.md)
 -----------
 주피터 노트북 커널 설정 절차
 
